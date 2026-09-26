@@ -1,6 +1,6 @@
 # AgentHoneypot project website
 
-This repository contains the standalone static AgentHoneypot academic project page. The published files live in `site/`; the research repository remains private and is not copied here. The page follows a compact editorial project-page layout and includes static, evidence-labeled attack-carrier samples.
+This repository contains the standalone static AgentHoneypot academic project page. The published files live in `site/`; no private research source tree is included. The page follows a compact editorial project-page layout and includes static, evidence-labeled attack-carrier samples.
 
 ## Local preview
 

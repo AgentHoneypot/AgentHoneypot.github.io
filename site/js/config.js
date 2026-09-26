@@ -2,7 +2,7 @@
 window.AGENTHONEYPOT_RELEASE = Object.freeze({
   paperUrl: null,
   repositoryUrl: null,
-  repositoryRef: 'website/github-pages-v1',
+  repositoryRef: 'main',
   authors: [],
   affiliation: null,
   bibtex: null
