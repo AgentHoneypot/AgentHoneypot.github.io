@@ -5,7 +5,7 @@ Update date: 2026-09-26
 ```text
 ANONYMITY_STATUS = FAIL (external duplicate personal repository and direct old commit object remain; see ANONYMITY_AUDIT.md)
 WEBSITE_DATA_UPDATE_STATUS = PASS
-CURRENT_HEAD = 5e919ec0ba55a0d48cb34e2511d4ee1994311507 (website update commit; final metadata commit is reported separately)
+CURRENT_HEAD = 32eabec8c1767401c1b4a0b7fb1320cf482022e2 (public website tree commit; final metadata commit is reported separately)
 TOTAL_BEHAVIORAL_TRIAL_TEXT = more than 2,400 valid behavioral trials
 DEEPSEEK_300_TRIAL_RESULT_INCLUDED = YES
 A5_PRIMARY_RESULT_CORRECT = YES (Qwen A5-LSB 20-trial primary; DeepSeek A5-LSB row also included)

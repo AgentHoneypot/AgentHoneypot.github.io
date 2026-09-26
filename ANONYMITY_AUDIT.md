@@ -6,7 +6,7 @@ Audit date: 2026-09-26
 
 ```text
 ANONYMITY_STATUS = FAIL
-CURRENT_HEAD = 5e919ec0ba55a0d48cb34e2511d4ee1994311507
+CURRENT_HEAD = 32eabec8c1767401c1b4a0b7fb1320cf482022e2
 PUBLIC_REPOSITORY = https://github.com/AgentHoneypot/AgentHoneypot.github.io
 PUBLIC_SITE = https://AgentHoneypot.github.io/
 CURRENT_TREE_IDENTITY_SCAN = PASS
@@ -23,7 +23,7 @@ SECRET_SCAN = PASS
 
 - The inspected worktree is the standalone website repository.
 - Branch: `main`.
-- The release ref is `main` at `5e919ec0ba55a0d48cb34e2511d4ee1994311507`.
+- The release ref is `main` at `32eabec8c1767401c1b4a0b7fb1320cf482022e2`.
 - There are no tags and no other branches in the local clone or remote repository.
 - The only configured remote is `agenthoneypot`, pointing to `AgentHoneypot/AgentHoneypot.github.io`.
 - The repository is public and Pages is configured for the GitHub Actions workflow.
