@@ -32,7 +32,7 @@ SECRET_SCAN = PASS
 
 The current tracked tree contains no author names, personal account handles, personal emails, personal GitHub URLs, affiliations, profile identifiers, local absolute paths, or private source URLs. The HTML, CSS, JavaScript, workflow, README, SVG files, and config are clean.
 
-All commits reachable from public refs were enumerated with `git rev-list --all`. There are two reachable release commits, both authored and committed by the neutral release account:
+All commits reachable from public refs were enumerated with `git rev-list --all`. Every reachable release commit is authored and committed by the neutral release account:
 
 ```text
 AgentHoneypot <AgentHoneypot@users.noreply.github.com>
