@@ -34,7 +34,7 @@ The values were transcribed from the frozen DeepSeek unified replication final r
 ## Modified files
 
 - `site/index.html`: updated stable figure labels, workload totals, DeepSeek table, Qwen A5-LSB table, and scope caveats.
-- `site/css/site.css`: added compact styling for the six-item workload and DeepSeek replication block.
+- `site/css/site.css`: added compact styling for the six-item workload and DeepSeek replication block, plus explicit mobile width constraints for the 390px layout.
 - `site/js/config.js`: aligned the anonymous repository reference with the public `main` branch while keeping all release identity fields null/empty.
 - `ANONYMITY_AUDIT.md`: records the full privacy audit, including the external duplicate-repository and direct old-SHA risks.
 - `WEBSITE_UPDATE_REPORT.md`: this report.
